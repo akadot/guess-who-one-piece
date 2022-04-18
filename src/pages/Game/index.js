@@ -42,7 +42,6 @@ function Game() {
 		const selectedChar = database[Math.floor(Math.random() * database.length)];
 		setSelected(selectedChar);
 		setScore(25);
-		console.log(selectedChar);
 	}
 
 	function chooseChar(char) {
