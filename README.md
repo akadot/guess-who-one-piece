@@ -1,6 +1,6 @@
 # One Piece Guess Who 🏴‍☠️
 
-Access Netlify version [here]("https://master--loquacious-nougat-b57c1a.netlify.app/").
+Access Netlify version [here](https://master--loquacious-nougat-b57c1a.netlify.app/).
 
 ## Run Local
 
